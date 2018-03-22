@@ -1,0 +1,4 @@
+alert("Hi!")
+"use strict";
+
+
